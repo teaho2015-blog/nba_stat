@@ -1,0 +1,34 @@
+{
+
+  "plugins": ["disqus",
+    "mermaid",
+    "include-codeblock",
+    "ga",
+    "anchors",
+    "plantuml",
+    "page-treeview"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": ""
+    },
+    "include-codeblock": {
+      "template": "default",
+      "unindent": true,
+      "theme": "monokai"
+    },
+    "ga": {
+      "token": "UA-90704189-5"
+    },
+    "page-treeview": {
+      "copyright": "",
+      "minHeaderCount": "10",
+      "minHeaderDeep": "10"
+    }
+  }
+}
+
+
+
+
+
